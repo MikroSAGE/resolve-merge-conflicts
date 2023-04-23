@@ -1,3 +1,5 @@
-# References
+# references
+- Mr.Kaye
+- Ms.Marie
+- Ms.Yoon
 
-* octocat 1 😈
